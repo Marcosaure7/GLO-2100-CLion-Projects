@@ -1,0 +1,19 @@
+# ninja log v6
+49	1644	7476121565928921	CMakeFiles/Partie3.dir/main.cpp.obj	6a49c951abbf530
+13	9549	7479740212513653	tests/lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	30133fc7a501b31
+63	1880	7476121566063652	CMakeFiles/Partie3.dir/Tugabudoire.cpp.obj	ab83c71faf66345b
+10	423	7479744314654554	build.ninja	76acfdd86ff59042
+1881	4231	7476121584253045	Partie3.exe	1feffa1d747d2502
+23	2392	7479742050654395	tests/CMakeFiles/Google_Tests_run.dir/test_tugabudoire.cpp.obj	a9eb4a4e9caeef7b
+19	1605	7479740212573674	tests/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	9b2ac10e9802ce41
+15	4421	7479742050574351	lib/libgtest.a	70b122e31d2dc4e2
+4421	4544	7479742094633395	lib/libgtest_main.a	a725cc4eaccac607
+7	30	7479743499987701	clean	45c2dd7a4f9d77a9
+7	407	7479744314654554	build.ninja	76acfdd86ff59042
+33	1225	7479744315622235	tests/CMakeFiles/Google_Tests_run.dir/__/Tugabudoire.cpp.obj	d070021cd455e769
+20	2684	7479744315492215	tests/lib/googletest/googletest/CMakeFiles/gtest_main.dir/src/gtest_main.cc.obj	9b2ac10e9802ce41
+26	2923	7479744315552284	tests/CMakeFiles/Google_Tests_run.dir/test_tugabudoire.cpp.obj	a9eb4a4e9caeef7b
+14	10862	7479744315432204	tests/lib/googletest/googletest/CMakeFiles/gtest.dir/src/gtest-all.cc.obj	30133fc7a501b31
+10863	15055	7479744423919314	lib/libgtest.a	70b122e31d2dc4e2
+15055	15222	7479744465846975	lib/libgtest_main.a	a725cc4eaccac607
+15222	22581	7479744467514553	tests/Google_Tests_run.exe	306e74ecfe102a97

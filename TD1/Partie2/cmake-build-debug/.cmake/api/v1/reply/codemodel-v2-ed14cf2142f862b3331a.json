@@ -1,0 +1,69 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Partie2",
+					"targetIndexes" : 
+					[
+						0,
+						1
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Partie2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Partie2-Debug-566f769a1d8c9e1e9403.json",
+					"name" : "Partie2",
+					"projectIndex" : 0
+				},
+				{
+					"directoryIndex" : 0,
+					"id" : "tugabudoire::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-tugabudoire-Debug-842a287b069b2e80e32e.json",
+					"name" : "tugabudoire",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mag20/OneDrive - Universit\u00e9 Laval/4e session/Algorithmes et strustures de donn\u00e9es/Labs/TD1/Partie2/cmake-build-debug",
+		"source" : "C:/Users/mag20/OneDrive - Universit\u00e9 Laval/4e session/Algorithmes et strustures de donn\u00e9es/Labs/TD1/Partie2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
