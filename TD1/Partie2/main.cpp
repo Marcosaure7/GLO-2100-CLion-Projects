@@ -1,5 +1,5 @@
 #include <iostream>
-#include "Tugabudoire/Tugabudoire.h"
+#include "Tugabudoire.h"
 
 int main() {
     auto t = new Tugabudoire ;

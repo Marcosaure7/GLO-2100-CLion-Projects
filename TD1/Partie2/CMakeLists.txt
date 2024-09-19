@@ -1,16 +1,19 @@
 cmake_minimum_required(VERSION 3.29)
 project(Partie2)
 
+set(CMAKE_CXX_STANDARD 14)
+
 # Create the library from the source files
-add_library(tugabudoire STATIC Tugabudoire/Tugabudoire.cpp
-        main.cpp)
+set(SOURCES main.cpp)
+
+add_executable(Partie2 ${SOURCES})
+
 
 # Specify include directories for the library
-target_include_directories(tugabudoire PUBLIC Tugabudoire)
+target_include_directories(Partie2 PUBLIC lib)
 
-target_compile_features(tugabudoire PUBLIC cxx_std_14)
+find_library(MY_LIBRARY Partie2_Lib PATHS lib)
 
-add_executable(Partie2
-        main.cpp
-        Tugabudoire/Tugabudoire.cpp
-        Tugabudoire/Tugabudoire.h)
+target_compile_features(Partie2 PUBLIC cxx_std_14)
+
+target_link_libraries(Partie2 ${MY_LIBRARY})

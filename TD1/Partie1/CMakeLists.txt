@@ -8,4 +8,5 @@ include_directories(.)
 add_executable(Partie1
     main.cpp
     Tugabudoire.cpp
-    Tugabudoire.h)
+    Tugabudoire.h
+        main.cpp)
