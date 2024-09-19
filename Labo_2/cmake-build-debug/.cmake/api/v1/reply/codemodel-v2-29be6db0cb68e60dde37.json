@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-d0094a50bb2071803777.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.29"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "Labo_2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "Labo_2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-Labo_2-Debug-17fe1c73c12b3b10c444.json",
+					"name" : "Labo_2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "C:/Users/mag20/OneDrive - Universit\u00e9 Laval/4e session/Algorithmes et strustures de donn\u00e9es/Labs/GLO-2100-CLion-Projects/Labo_2/cmake-build-debug",
+		"source" : "C:/Users/mag20/OneDrive - Universit\u00e9 Laval/4e session/Algorithmes et strustures de donn\u00e9es/Labs/GLO-2100-CLion-Projects/Labo_2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 7
+	}
+}
