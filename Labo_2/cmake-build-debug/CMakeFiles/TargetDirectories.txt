@@ -1,3 +1,0 @@
-C:/Users/mag20/OneDrive - Université Laval/4e session/Algorithmes et strustures de données/Labs/GLO-2100-CLion-Projects/Labo_2/cmake-build-debug/CMakeFiles/Labo_2.dir
-C:/Users/mag20/OneDrive - Université Laval/4e session/Algorithmes et strustures de données/Labs/GLO-2100-CLion-Projects/Labo_2/cmake-build-debug/CMakeFiles/edit_cache.dir
-C:/Users/mag20/OneDrive - Université Laval/4e session/Algorithmes et strustures de données/Labs/GLO-2100-CLion-Projects/Labo_2/cmake-build-debug/CMakeFiles/rebuild_cache.dir

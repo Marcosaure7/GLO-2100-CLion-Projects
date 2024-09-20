@@ -13,9 +13,10 @@ set(SOURCES Adresse.h
     Util_pointer.hpp
     ContratException.h
     ContratException.cpp
-    # main.cpp
+    main.cpp
         Etudiant.cpp
         Etudiant.h
-        Saison.cpp)
+        # Saison.cpp
+)
 
 add_executable(Labo_2 ${SOURCES})
